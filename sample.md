@@ -1,9 +1,8 @@
 ---
-
-theme　: "black"  
-transition　: "default"  
-
+theme : "league"
+transition: "default"
 ---
+
 
 # タイトル１ 
 
