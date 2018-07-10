@@ -28,3 +28,7 @@ https://marketplace.visualstudio.com/items?itemName=evilz.vscode-reveal
 </style>
 
 https://srz-zumix.blogspot.com/2014/09/revealjs-markdown.html
+
+- gitlab-cliでコミット時にスライドを作れればさらによい
+- 参考
+  - https://qiita.com/sue445/items/2bfcdc1cfb6881e99bbd
