@@ -32,3 +32,9 @@ https://srz-zumix.blogspot.com/2014/09/revealjs-markdown.html
 - gitlab-cliでコミット時にスライドを作れればさらによい
 - 参考
   - https://qiita.com/sue445/items/2bfcdc1cfb6881e99bbd
+
+
+### TIPS
+
+- https://qiita.com/t-kusakabe/items/725e7438892bba395062
+- http://localhost:8000/?print-pdf#/ にアクセスし、ctl + p を押すといい感じに表示される。それをPDFに出力すればOK
