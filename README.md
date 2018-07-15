@@ -38,3 +38,7 @@ https://srz-zumix.blogspot.com/2014/09/revealjs-markdown.html
 
 - https://qiita.com/t-kusakabe/items/725e7438892bba395062
 - http://localhost:8000/?print-pdf#/ にアクセスし、ctl + p を押すといい感じに表示される。それをPDFに出力すればOK
+
+
+- githubpagesのurl
+	- https://omix222.github.io/revealjssample/
